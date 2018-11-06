@@ -4,7 +4,6 @@ title: Home
 banner_text: ~
 ---
 
-<h2>Welcome</h2>
 <br />
 <h3>Match Information</h3>
 <br />
