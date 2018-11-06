@@ -38,7 +38,7 @@ should also plan on bringing at least 150 rounds of ammunition.
 
 In most IDPA stages you'll be shooting from the holster. Many new shooters have trouble with their holster selection and in 
  some cases a poor choice may prevent you from being able to shoot. According to the IDPA rules your 
-holster must be on a belt, on your strong side and centered on your right hip. Additionally, floppy nylon and many 
+holster must be on a belt, on your strong side and centered on your strong side hip. Additionally, floppy nylon and many 
  inexpensive leather holsters wont work because you typically have to hold the holster open with one hand while inserting the gun, 
  which in turn causes you to sweep your hand with the muzzle (this would result in a safety disqualification). Most shooters 
  use rigid kydex or plastic holsters, with products from Blade Tech and Comp-Tac being the most common. Both of these 
