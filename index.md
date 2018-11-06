@@ -40,9 +40,9 @@ months. The winner will be announced after a drawing at the Febrary, 2019 match.
 <br /><h3>New Shooters</h3><br />
 
 <p>First-time IDPA shooters are required to attend the New Shooter's briefing held at 8:30 sharp. You must arrive in time to check-in before 
- the briefing begins, arriving at 8:00 would probably be a good idea. During the New Shooter's briefing will review IDPA-specific safety rules 
+ the briefing begins, arriving at 8:00 would probably be a good idea. During the New Shooter's briefing we'll review IDPA-specific safety rules 
 and do a quick overview of the competition rules. If you've never shot a match before, don't worry: you'll find IDPA shooters are 
-a friendly group and will be eager to help you have a successful day. Please review the equipment page for some guidance on what to bring and 
+a friendly group and will be eager to help you have a successful day. Please review the <a href="/getting-started-idpa.html">Getting Started in IDPA</a> page for some guidance on what to bring and 
 don't be afraid to email the Match Director if you have specific questions.</p>
 
 <p>IDPA membership is required to shoot our IDPA matches. Membership is not required for your first match but you are encouraged 
