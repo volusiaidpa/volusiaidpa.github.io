@@ -7,7 +7,7 @@ banner_text: Getting Started in IDPA
 ## Getting Started in IDPA
 
 IDPA is one of the fastest-growing and most popular action-shooting sports in the United States. For many people it is 
-also their introduction to competitive shooting and people from all walks of life and a wide range of skills can be found 
+also their introduction to competitive shooting and people from all walks of life and a wide range of skill levels can be found 
 competing around the country every weekend. With it's focus on defensive-shooting 
 principles instead of pure speed IDPA is unique among it's peers and many of the very same skills you'll master as you progress 
 in your IDPA career are the same that could potentially save your life in a violent encounter.
