@@ -12,6 +12,7 @@ safety and competition rules and our stages are designed with an emphasis on fun
 and challenging standards drills. The Volusia County IDPA match is held on the Second Sunday of each month. You'll find us 
 at the far end of the club, where the entry road finally ends next to a large, white RV.  
   
+<h5>The match entry fee is $15 for VCGHC members and $20 for non-members.</h5><br />
 
 #### TWO MATCHES, ONE DAY
 

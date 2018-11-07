@@ -15,7 +15,9 @@ banner_text: ~
  are operated in accordance with the current IDPA Rulebook.</p>
 
 <h5 style="color: red;">SERPA-style holsters with trigger finger activated retention systems are banned at this and many other matches for safety reasons.</h5><br />   
- 
+
+<h4>The match entry fee is $15 for VCGHC members and $20 for non-members.</h4><br />
+
 <p>For more details about the match itself see <a class="text" href="/about.html">About the Match</a>.</p><br />
 
 <h3>Giveaways</h3>
