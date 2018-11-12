@@ -37,7 +37,7 @@ will be announced at the match and that person will be one of the 12 entrants in
 all-steel match is a total blast and the stages are designed by USPSA Grand Master Manny Brag, who brings 20+ years experience and 
 an incredible array of equipment to bear. Manny is also a sought-after world-class instructor and has offered a one-on-one 3 hour training 
 session to be raffled. To qualify you must shoot both the IDPA and GM Knockdown Steel matches for at least 3 of the next 4 
-months. The winner will be announced after a drawing at the Febrary, 2019 match.</p>
+months. The winner will be announced after a drawing at the March, 2019 match.</p>
 
 <br /><h3>New Shooters</h3><br />
 
