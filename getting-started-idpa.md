@@ -23,9 +23,9 @@ score instead of a DQ you've done well and you'll undoubtedly have a lot to work
 
 #### Training
 
-Some clubs offer an introductory training class for people interested in starting IDPA competition. This is an excellent 
+We occasionally offer an <a class="text" href="/intro-to-idpa.html">introductory training class</a> for people interested in starting IDPA competition. This is an excellent 
 opportunity to prepare yourself for your first match without the stress of lots of people watching or working under 
- the pressure of competition. We may hold such classes here at VCGHC, contact the Match Director to find out if any are planned
+ the pressure of competition. Contact the Match Director to find out if any are planned
  soon.
  
 ### What to Bring
