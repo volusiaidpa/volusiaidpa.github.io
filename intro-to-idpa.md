@@ -35,8 +35,7 @@ number of warm up drills, and finish with the class by shooting two real IDPA st
 <br />
 If you're interested in competitive shooting but not sure where to start this is the class for you. IDPA 
 is a great entry-level sport and while many shooters stick with only IDPA many also explore other disciplines
- such as USPSA and Steel Challenge. IDPA membership is not required. VCGHC membership is not required but 
- club members get preference over non members if the class fills.
+ such as USPSA and Steel Challenge. IDPA membership is not required.
  
 ### What to expect
 <br />
@@ -46,7 +45,7 @@ will go down to the shooting bays where the class will break up into 2 groups of
 
 Once the instructors are satisfied with everyone's holster work we will begin ramping the 
  live-fire drills until we are ready to take a break and set up the IDPA stages. We will set up two 100% IDPA legal 
-stages and each student will have a chance to shoot it. We will wrap up with a Q&A session and everyone will be encouraged 
+stages and each student will have a chance to shoot both. We will wrap up with a Q&A session and everyone will be encouraged 
 to attend the monthly IDPA match on the following weekend.   
 
 The class usually ends around 3:00pm but we may get out earlier if we have a good group and things run smoothly.
