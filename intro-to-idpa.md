@@ -17,21 +17,19 @@ book can be found <a class="text" href="https://www.idpa.com/wp-content/uploads/
 
 ### Topics Covered
 
-<br />Safe gun handling, IDPA safety and competition rules, gear requirements, scoring, IDPA range commands, drawing
+<br />IDPA safety and competition rules, gear requirements, scoring, IDPA range commands, drawing
 from a holster, shooting from behind cover and basic strategies to shoot your best at an actual
 IDPA match. Once we get through the classroom portion we’ll hit the range, run through a
 number of warm up drills, and finish with the class by shooting two real IDPA stages.
 
 ### Required Gear
   
-* Pistol or Revolver 9mm or larger
+* 9mm or larger caliber pistol
 * Holster - IWB or OWB (Sturdy OWB highly recommended – see <a class="text" href="/getting-started-idpa.html">Getting Started in IDPA</a>)
 * Minimum of 3 Magazines or Speed Loaders with ability to carry 2 mags on your belt
 * Minimum of 100 Rounds of Ammunition
 * Eye and Ear Protection
-* Concealment Garment - a shooting vest or large button down or open-front shirt that
-  will conceal your firearm when holstered – required for IDPA matches but optional for
-  this class.
+
   
 ### Who should attend?
 <br />
