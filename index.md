@@ -25,7 +25,9 @@ using a Safe Table.</h5><br />
 
 <p>For more details about the match itself see <a class="text" href="/about.html">About the Match</a>.</p><br />
 
-<br /><h3>New Shooters</h3><br />
+<br /><br />
+
+<h3>New Shooters</h3>
 
 <p>First-time IDPA shooters are required to attend the New Shooter's briefing held at 8:30 sharp. You must arrive in time to check-in before 
  the briefing begins, arriving at 8:00 would probably be a good idea. During the New Shooter's briefing we'll review IDPA-specific safety rules 
