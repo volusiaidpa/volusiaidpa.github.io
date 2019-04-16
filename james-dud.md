@@ -4,13 +4,16 @@ title: James Dud Stage Descriptions
 banner_text: James Dud Scenarios
 ---
 
+<br /><br />
 <h3>James Dud Stage Scenarios</h3>
 
+<br /><br />
 <p>One of the things that [hopefully] makes our matches stand out is the unique, themed stage scenarios for most matches. While 
 it adds some effort to designing the stages it also adds a coherence that nearly 1 out of 10 shooters feel has been missing 
 from the sport. For those who may have missed one or all of the James Dud series, here's each scenario in order.</p>   
 
 <h4>November 2018</h4>
+<br /><br />
 
 <p>You are James Dud, Agent 000. Having reluctantly agreed to allow you to carry the sidearm of your choice your boss “N” insists that you demonstrate proficiency with it before resuming field work.</p>
 
@@ -25,6 +28,7 @@ from the sport. For those who may have missed one or all of the James Dud series
 <p>You are the diabolically evil Mr. Yes. After years of scheming and embarrassing failures Agent 000 has at last fallen into your trap. Eliminate his reinforcements and take him prisoner after shooting the imperialist martini out of his hand to show him who’s boss.</p>
 
 <h4>December 2018</h4>
+<br /><br />
 
 <p>Weeks of kitten torture have failed to break you and now your evil captors have switched to chickens. Finally on the verge of cracking you notice they’ve let their guard down for a moment. Now is your chance! Find a gun and fight your way out!</p>
 
@@ -39,6 +43,7 @@ from the sport. For those who may have missed one or all of the James Dud series
 <p>You are Claus. Santa Claus. Agent 1225. With a record number of IDPA shooters asking for a new gun under their tree this year you’ve been putting in overtime on the range testing pistols.</p>
 
 <h4>February 2019</h4>
+<br /><br />
 
 <p>You are Brunhilda Bigginbossom, James Dud’s latest love interest and secret agent for the evil Spectrum Organization. Word of Agent 000’s escape has displeased your handlers who have sent assassins to kill you while you’re having your nails done. Fabulous.</p>
 
@@ -51,6 +56,7 @@ from the sport. For those who may have missed one or all of the James Dud series
 <p>You are Brunhilda Bigginbossom. With your apartment full of dead assassins you’ve arrived at the airport to fly to James Dud. Unbelievably, just as you lay down your pistol case for the airline to check in, terrorists appear and begin shooting up the place.</p>
 
 <h4>April 2019</h4>
+<br /><br />
 
 <p>You are James Dud, Agent 000. After returning to London you’ve been issued a company car that due to budget cuts isn’t quite what you’re used to. After a break down you’ve pulled over in a seemingly quiet part of town only to be confronted by a group of militant vegans upset about the burger wrapper in the passenger seat.</p>
 
