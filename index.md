@@ -16,9 +16,9 @@ banner_text: ~
 
 <h5 style="color: red;">SERPA-style holsters with trigger finger activated retention systems are banned at this and many other matches for safety reasons.</h5><br />   
 
-<h6 style="color: red;">Important: Gun handling at any location other than a safe table will result in disqualification. Gearing up at your car is allowed as long as you 
+<h5 style="color: red;">Gun handling at any location other than a safe table will result in disqualification. Gearing up at your car is allowed as long as you 
 bring your cased or bagged gun to a designated Safe Table to holster it. Regardless of Safe Table orientation muzzles should be pointed at the nearest berm at all times while 
-using a Safe Table.</h6><br />
+using a Safe Table.</h5><br />
 
 
 <h4>The match entry fee is $15 for VCGHC members and $20 for non-members.</h4><br />
