@@ -4,6 +4,8 @@ title: James Dud Stage Descriptions
 banner_text: James Dud Scenarios
 ---
 
+<h3>James Dud Stage Scenarios</h3>
+
 <p>One of the things that [hopefully] makes our matches stand out is the unique, themed stage scenarios for most matches. While 
 it adds some effort to designing the stages it also adds a coherence that nearly 1 out of 10 shooters feel has been missing 
 from the sport. For those who may have missed one or all of the James Dud series, here's each scenario in order.</p>   
