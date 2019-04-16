@@ -25,6 +25,17 @@ using a Safe Table.</h5><br />
 
 <p>For more details about the match itself see <a class="text" href="/about.html">About the Match</a>.</p><br />
 
+<br /><h3>New Shooters</h3><br />
+
+<p>First-time IDPA shooters are required to attend the New Shooter's briefing held at 8:30 sharp. You must arrive in time to check-in before 
+ the briefing begins, arriving at 8:00 would probably be a good idea. During the New Shooter's briefing we'll review IDPA-specific safety rules 
+and do a quick overview of the competition rules. If you've never shot a match before, don't worry: you'll find IDPA shooters are 
+a friendly group and will be eager to help you have a successful day. Please review the <a class="text" href="/getting-started-idpa.html">Getting Started in IDPA</a> page for some guidance on what to bring and 
+don't be afraid to email the Match Director if you have specific questions.</p>
+
+<p>IDPA membership is required to shoot our IDPA matches. Membership is not required for your first match but you are encouraged 
+to join.</p>
+
 <h3>Giveaways</h3>
 
 <p>We are excited to be able to offer two raffle prizes for certain competitors.</p>
@@ -44,13 +55,3 @@ an incredible array of equipment to bear. Manny is also a sought-after world-cla
 session to be raffled. To qualify you must shoot both the IDPA and GM Knockdown Steel matches for at least 3 of the next 4 
 months. The winner will be announced after a drawing at the March, 2019 match.</p>
 
-<br /><h3>New Shooters</h3><br />
-
-<p>First-time IDPA shooters are required to attend the New Shooter's briefing held at 8:30 sharp. You must arrive in time to check-in before 
- the briefing begins, arriving at 8:00 would probably be a good idea. During the New Shooter's briefing we'll review IDPA-specific safety rules 
-and do a quick overview of the competition rules. If you've never shot a match before, don't worry: you'll find IDPA shooters are 
-a friendly group and will be eager to help you have a successful day. Please review the <a class="text" href="/getting-started-idpa.html">Getting Started in IDPA</a> page for some guidance on what to bring and 
-don't be afraid to email the Match Director if you have specific questions.</p>
-
-<p>IDPA membership is required to shoot our IDPA matches. Membership is not required for your first match but you are encouraged 
-to join.</p>
