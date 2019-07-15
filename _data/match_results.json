@@ -38,5 +38,21 @@
     "set_up_winner": "Ryan Knight",
     "results_url": "https://practiscore.com/results/new/934c59c8-affb-492d-ac5f-ebe0f71ea80a",
     "num_shooters": 21
+  },
+  {
+    "month": "June",
+    "year": 2019,
+    "day": "9th",
+    "set_up_winner": "Ryan Knight",
+    "results_url": "https://practiscore.com/results/new/67b50ba1-7845-4cad-ae32-71427953c46e",
+    "num_shooters": 18
+  },
+  {
+    "month": "July",
+    "year": 2019,
+    "day": "14th",
+    "set_up_winner": "Ted Swinford",
+    "results_url": "https://practiscore.com/results/new/edba7487-7287-482a-88d3-a886f21cf430",
+    "num_shooters": 29
   }
 ]
