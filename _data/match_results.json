@@ -62,5 +62,21 @@
     "set_up_winner": "Mike Parrish",
     "results_url": "https://practiscore.com/results/new/6e9237dd-15a0-431e-af70-181dd2ca2172",
     "num_shooters": 16
+  },
+  {
+    "month": "September",
+    "year": 2019,
+    "day": "8th",
+    "set_up_winner": "Bob Knight",
+    "results_url": "https://practiscore.com/results/new/f92ff4d5-2e8d-444d-863e-e6948f59d8e0",
+    "num_shooters": 27
+  },
+  {
+    "month": "October",
+    "year": 2019,
+    "day": "13th",
+    "set_up_winner": "Mike Parrish",
+    "results_url": "https://practiscore.com/results/new/c7923cc7-a08b-46ba-8e48-b45ff334d2b1",
+    "num_shooters": 39
   }
 ]
