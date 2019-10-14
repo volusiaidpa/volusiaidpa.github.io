@@ -9,17 +9,18 @@ banner_text: ~
 <br />
 <p>IDPA Matches are held at the Volusia County Gun and Hunt Club on the Second Sunday of each month. We normally have 6 stages
  for our monthly matches and also offer a 5x5 classifier after each match. We support all divisions including the specialy Carry Optics 
-  and Pistol Caliber Carbine divisions. Typical minimum round count is about 100 rounds. Pre-registration via Practiscore is strongly encouraged 
- for the IDPA Match and is <strong>mandatory</strong> for the 5x5 classifier. Our matches take full advantage of the excellent facilities at 
+  and Pistol Caliber Carbine divisions. Typical minimum round count is between 90-120 rounds. Pre-registration via Practiscore is strongly encouraged 
+ for the IDPA Match and the 5x5 classifier. Our matches take full advantage of the excellent facilities at 
  the VCGHC including a huge array of steel and moving targets and a shoot-house. We are an IDPA-affiliated club and our matches 
  are operated in accordance with the current IDPA Rulebook.</p>
 
 <h5 style="color: red;">SERPA-style holsters with trigger finger activated retention systems are banned at this and many other matches for safety reasons.</h5><br />   
 
-<h5 style="color: red;">Gun handling at any location other than a Safe Table will result in disqualification. Gearing up at your car is allowed as long as you 
+<h5 style="color: red;">Gun handling (other than while shooting a stage) at any location other than a Safe Table will result in disqualification. Gearing up at your car is allowed as long as you 
 bring your cased or bagged gun to a designated Safe Table to holster it. Regardless of Safe Table orientation muzzles should be pointed at the nearest berm at all times while 
 using a Safe Table.</h5><br />
 
+<h5 style="color: red;">Due to our use of steel targets eye protection is required at all times while on club property. You should not exit your vehicle without eye protection.</h5><br />
 
 <h4>The match entry fee is $15 for VCGHC members and $20 for non-members.</h4><br />
 
@@ -29,8 +30,7 @@ using a Safe Table.</h5><br />
 
 <br /><br />
 
-<p>First-time IDPA shooters are required to attend the New Shooter's briefing held on Bay 3 at 8:30 sharp. You must arrive in time to check-in before 
- the briefing begins, arriving at 8:00 would probably be a good idea. During the New Shooter's briefing we'll review IDPA-specific safety rules 
+<p>First-time IDPA shooters are required to attend the New Shooter's briefing held at 8:00 sharp. Come to the check in trailer and let us know you're a new shooter and we'll let you know where you need to be. During the New Shooter's briefing we'll review IDPA-specific safety rules 
 and do a quick overview of the competition rules. If you've never shot a match before, don't worry: you'll find IDPA shooters are 
 a friendly group and will be eager to help you have a successful day. Please review the <a class="text" href="/getting-started-idpa.html">Getting Started in IDPA</a> page for some guidance on what to bring and 
 don't be afraid to email the Match Director if you have specific questions.</p>

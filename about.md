@@ -28,12 +28,12 @@ lead going downrange by 9AM.
   
 * **8:00am:** 
     * Registration opens
+    * New Shooters Briefing begins
 
 * **8:30am:**
-    * New Shooters Briefing begins
     * Safety Officer Briefing begins
   
-* **8:45am:**
+* **8:50am:**
     * Registration closes
 
 * **8:50am:**
@@ -44,7 +44,7 @@ lead going downrange by 9AM.
 
 * **12:00-1:00pm:**
     * Main Match ends  
-    * 5x5 classifier begins immediately after teardown
+    * 5x5 classifier begins immediately after teardown (sometimes you may have to be patient)
 
 * **1:00pm:**
     * GM Knockdown Steel match begins
