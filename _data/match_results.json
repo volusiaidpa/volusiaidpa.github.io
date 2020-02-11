@@ -94,5 +94,22 @@
     "set_up_winner": "Ryan Knight",
     "results_url": "https://practiscore.com/results/new/8288ba33-eab3-43ae-906c-cbc2da32781f",
     "num_shooters": 12
+  },
+  {
+    "month": "January",
+    "year": 2020,
+    "day": "9th",
+    "set_up_winner": "Bob Knight",
+    "results_url": "https://practiscore.com/results/new/8579c004-b95d-4bf7-b0c7-611cff02e4a2",
+    "num_shooters": 21
+  },
+  {
+    "month": "February",
+    "year": 2020,
+    "day": "9th",
+    "set_up_winner": "Ryan Knight",
+    "results_url": "https://practiscore.com/results/new/eaebf0e3-90c8-4a7d-817e-2f4d4b2fa431",
+    "num_shooters": 30
   }
+
 ]
