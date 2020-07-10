@@ -14,13 +14,6 @@ at the far end of the club, where the entry road finally ends next to a large, w
   
 <h5>The match entry fee is $15 for VCGHC members and $20 for non-members.</h5><br />
 
-#### TWO MATCHES, ONE DAY
-
-As the VCGHC has grown so has the diverse list of competition disciplines it offers and our club has now grown large enough to support 
-multiple matches at the same time. In addition to the IDPA match the GM Knockdown Steel match has start times at 9am and 1pm. 
-Shooters participating in the IDPA match have the option to enjoy a full day of shooting fun by shooting the IDPA match in the 
-morning and the Knockdown Steel match in the afternoon. 
-
 #### SCHEDULE
 
 We try to adhere to this schedule as closely as possible, of course some matches run longer than others but our goal is to have 
