@@ -110,6 +110,30 @@
     "set_up_winner": "Ryan Knight",
     "results_url": "https://practiscore.com/results/new/eaebf0e3-90c8-4a7d-817e-2f4d4b2fa431",
     "num_shooters": 30
+  },
+  {
+    "month": "March",
+    "year": 2020,
+    "day": "8th",
+    "set_up_winner": "Bob Knight",
+    "results_url": "https://practiscore.com/results/new/105693",
+    "num_shooters": 30
+  },
+  {
+    "month": "May",
+    "year": 2020,
+    "day": "10th",
+    "set_up_winner": "Mike Parrish",
+    "results_url": "https://practiscore.com/results/new/c9242649-637a-408c-b7a0-fe2b9e5a848c",
+    "num_shooters": 33
+  },
+  {
+    "month": "June",
+    "year": 2020,
+    "day": "8th",
+    "set_up_winner": "Bob Knight",
+    "results_url": "https://practiscore.com/results/new/d05db070-a6fb-4098-8545-b0da2e758077",
+    "num_shooters": 28
   }
 
 ]
