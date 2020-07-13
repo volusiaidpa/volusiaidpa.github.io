@@ -134,6 +134,14 @@
     "set_up_winner": "Bob Knight",
     "results_url": "https://practiscore.com/results/new/d05db070-a6fb-4098-8545-b0da2e758077",
     "num_shooters": 28
+  },
+  {
+    "month": "July",
+    "year": 2020,
+    "day": "12th",
+    "set_up_winner": "Mike Parrish",
+    "results_url": "111906",
+    "num_shooters": 30
   }
 
 ]
